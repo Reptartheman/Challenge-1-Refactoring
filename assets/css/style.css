@@ -48,6 +48,12 @@ body {
     background-position: center;
 }
 
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
