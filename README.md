@@ -1,1 +1,2 @@
 # Challenge-1-Refactoring
+For this assignment we were challenged to Refactor a webpage so that the code was more readable by the SEO. The original HTML page was riddles with <div> elements making it more difficult to see where each section was seperated within the code. All <div> elements were changed to <section>, <nav>, <header>, <aside>, etc. so that the code is more easily discernible. The HTML file also included some CSS classes and ID's that were not being used in the CSS file so those were to be removed as well. 
